@@ -1,1 +1,1 @@
-document.write("Hola Mundo desde JavaCript")
+document.write("Hola Mundo desde JavaCript");
